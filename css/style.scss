@@ -369,7 +369,7 @@ td {
   }
 
   @include lg {
-    height: 380px;
+    height: 450px;
   }
 
   border: none;
@@ -424,7 +424,7 @@ td {
 }
 
 .pro-text {
-  margin-top: 0.5rem;
+  margin-top: 2rem;
   padding: 0 0.5rem;
 
   &:hover {
@@ -548,7 +548,7 @@ td {
     margin-bottom: 1rem;
   }
   @include lg {
-    height:400px;
+    height:430px;
   }
   border: none;
   box-shadow: 0 3px 14px 2px rgba(0,0,0,0.05), 0 5px 5px -3px rgba(0,0,0,0.20);
